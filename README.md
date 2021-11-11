@@ -6,7 +6,7 @@
 - 🌟 I'm currently learning Flutter for Mobile App Development!
 - 🔥 Besides programming, I love trekking and playing sports
 
-<br><br>
+<br>
 
 <h3 align="left">Stuff I've worked with</h3>
 <br>
@@ -33,11 +33,11 @@
   
 </div>
 
-<br><br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapneelparanjpe&layout=compact&theme=radical&title_color=9898FF)
 
-<br><br>
+<br>
 
 
 <h3 align="left">Connect with me</h3>
