@@ -1,4 +1,4 @@
-## <div align="center">Hi there, I'm Swapneel Paranjpe 👋</div>
+## <div align="left">Hi there, I'm Swapneel Paranjpe 👋</div>
 <br>
 
 - 🎓 I'm an Electronics Engineer from VJTI, Mumbai.
@@ -8,9 +8,9 @@
 
 <br><br>
 
-<h3 align="center">Stuff I've worked with</h3>
+<h3 align="left">Stuff I've worked with</h3>
 <br>
-<div align="center"> 
+<div align="left"> 
 
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> </a>
   <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
@@ -35,12 +35,18 @@
 
 <br><br>
 
-<h3 align="center">Connect with me</h3>
-<div align="center"> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapneelparanjpe&layout=compact&theme=radical&title_color=9898FF)
+
+<br><br>
+
+
+<h3 align="left">Connect with me</h3>
+<div align="left"> 
 
   <a href="https://www.linkedin.com/in/swapneelparanjpe/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
   <a href="mailto:swapneel.paranjpe@gmail.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email" width="40" height="40"/> </a>
   
 </div>
+
 
 <br>
