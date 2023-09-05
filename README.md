@@ -1,9 +1,9 @@
 ## <div align="left">Hi there, I'm Swapneel Paranjpe 👋</div>
 <br>
 
-- 🎓 I'm an Electronics Engineer from VJTI, Mumbai.
+- 🎓 I'm a Computer Science Grad student at Arizona State University.
 - 👨‍💻 Passionate about Software Development!
-- 🌟 I'm currently learning Flutter for Mobile App Development!
+- 🌟 I'm currently learning Software Security and Flutter for Mobile App Development!
 - 🔥 Besides programming, I love trekking and playing sports
 
 <br>
